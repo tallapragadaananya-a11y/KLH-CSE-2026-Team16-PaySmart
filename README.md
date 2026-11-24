@@ -9,7 +9,7 @@
 | 2 | Devika Kuntur | 2520030329 |
 | 3 | Rushvini S | 2520030542 |
 
-**Supervisor / Guide:** In progress  |  **Course Coordinator:** In progress
+**Supervisor / Guide:** K. Sri Rama Murthy  |  **Course Coordinator:** In progress
 
 ## Abstract
 PaySmart is a Digital Wallet and Financial Transaction Platform designed to provide users with a secure, convenient and efficient way to manage their digital money. The main objective of this project is to simplify financial activities such as adding money, checking wallet balance, transferring money, making payments and viewing transaction history through a single platform.
